@@ -1,7 +1,7 @@
 {
-  "name": "devconnector",
+  "name": "fullquack",
   "version": "1.0.0",
-  "description": "Social Network for Codesmith Devs",
+  "description": "Developer Resource for Pair Programming",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
@@ -15,6 +15,7 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "concurrently": "^4.0.1",
+    "cors": "^2.8.4",
     "create-react-app": "^2.0.4",
     "express": "^4.16.4",
     "gravatar": "^1.6.0",
